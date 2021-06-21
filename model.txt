@@ -1,0 +1,4 @@
+You can get the trained model file from http://dlib.net/files, click on shape_predictor_68_face_landmarks.dat.bz2. 
+And to download the 68 landmarks shape predictor go to https://www.kaggle.com/sajikim/shape-predictor-68-face-landmarks.
+
+Latter is used as a predictor to predict landmarks and former to detect the face.
